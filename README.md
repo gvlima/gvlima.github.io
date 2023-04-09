@@ -1,2 +1,1 @@
-![preview](./assets/img/preview.png)
-# gvlima.github.io
+## gvlima.github.io
